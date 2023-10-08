@@ -16,3 +16,6 @@ https://github.com/bill920112/ES2023/assets/144580649/c7875edd-b16f-4a86-9775-cd
 
 https://github.com/bill920112/ES2023/assets/144580649/ab2ea9b3-746b-4d45-8afd-eeb465eab5b2
 
+#####實作2-5: 按下按鍵, Green LED亮 & Red LED滅; 放開按鍵, Green LED滅 & Red LED亮. 想要再深入的同學可以試試喔. (思考方向: digitalRead(), digitalWrite(): 按鍵 +序列輸出 + LED)
+
+https://github.com/bill920112/ES2023/assets/144580649/5254d368-5164-4359-a81e-8f6230f84e0f
