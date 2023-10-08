@@ -15,3 +15,4 @@ https://github.com/bill920112/ES2023/assets/144580649/c7875edd-b16f-4a86-9775-cd
 ####實作2-4 analogRead(), 1024解析度 (i.e.,10-bit): 可變電阻 + 序列監視器與輸出; 當你改變可變電阻的阻值(e.g., 10K-ohm)時，序列監視器輸出的數值有什麼改變? 數值又有什麼意義呢? 可試將你的想法寫在你的GitHub Page中
 
 https://github.com/bill920112/ES2023/assets/144580649/ab2ea9b3-746b-4d45-8afd-eeb465eab5b2
+
