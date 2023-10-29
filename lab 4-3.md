@@ -7,3 +7,7 @@ https://github.com/bill920112/ES2023/assets/144580649/d08038ac-334d-45a0-88f8-43
 ### Lab 4-2 如下圖的Demo, 用七段顯示器, 顯示 . →1→ ... → 9 → 0 → 全滅, 狀態改變的間隔時間為0.5秒
 
 https://github.com/bill920112/ES2023/assets/144580649/e5c43b9e-fcad-4e8c-b56e-8403332c1658
+
+#### Lab 4-3 LCD顯示"Hello" + 你的英文名字 (e.g., "Hello Horace")
+
+https://github.com/bill920112/ES2023/assets/144580649/9e342945-631e-428e-a7a5-76461ad02d2c
