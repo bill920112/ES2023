@@ -21,5 +21,4 @@ https://github.com/bill920112/ES2023/assets/144580649/8bb7b592-65e2-4a32-86c7-f4
 
 ###### 3. **另外, 當物體的距離小於150cm時, 則亮紅色LED, 否則亮綠色LED**
 
-
-
+https://github.com/bill920112/ES2023/assets/144580649/1e494f8d-1a16-4789-becc-6482a0fd3028
