@@ -10,4 +10,4 @@ https://github.com/bill920112/ES2023/assets/144580649/e5c43b9e-fcad-4e8c-b56e-84
 
 #### Lab 4-3 LCD顯示"Hello" + 你的英文名字 (e.g., "Hello Horace")
 
-https://github.com/bill920112/ES2023/assets/144580649/9e342945-631e-428e-a7a5-76461ad02d2c
+https://github.com/bill920112/ES2023/assets/144580649/8bb7b592-65e2-4a32-86c7-f42a42bb3048
