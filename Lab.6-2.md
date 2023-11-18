@@ -4,3 +4,4 @@
 
 https://github.com/bill920112/ES2023/assets/144580649/6b8e3219-026d-492d-b3eb-ffdfd371b768
 
+## Lab 6-2 通過Serial印出9X9乘法表, 計算時亮紅色LED, 綠色LED慢慢變亮亮完成時全亮, 並且紅色LED OFF
