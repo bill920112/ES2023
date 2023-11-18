@@ -1,7 +1,19 @@
 # ES2023 - 實作1: Welcome: GitHub入門, Tinker CAD, digitalWrite(), LED亮滅 (2W) 
 
 # 1-1 在TinkerCAD開一個新的Circuit, 加上一個外部的LED, 並且ON (亮) 0.5秒, OFF(滅) 0.5秒
+程式
+void setup()
+{
+  pinMode(LED_BUILTIN, OUTPUT);
+}
 
+void loop()
+{
+  digitalWrite(LED_BUILTIN, HIGH);
+  delay(1000); 
+  digitalWrite(LED_BUILTIN, LOW);
+  delay(1000); 
+}
 https://github.com/bill920112/ES2023/assets/144580649/d8fe3301-0775-4cd6-b5c5-fb3227f388cb
 
 ## 1-2 在TinkerCAD開一個新的Circuit, 分別使甪R, G, B三種顏色的LED, ALL ON (亮) 0.5秒, OFF(滅) 0.5秒
